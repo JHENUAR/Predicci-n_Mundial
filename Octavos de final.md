@@ -163,36 +163,6 @@ El sistema:
 * Identificación de favoritos
 
 ---
-
-## ⚠️ Problemas Comunes (y solución)
-
-### ❌ Error: `KeyError: 'team'`
-
-✔ Causa: el dataset no contiene la columna `"team"`
-✔ Solución:
-
-```python
-print(df.columns)
-```
-
-Y usar el nombre correcto, por ejemplo:
-
-```python
-df["Team"]  # o df["equipo"]
-```
-
----
-
-## 📊 Posibles Mejoras
-
-* 🔥 XGBoost / LightGBM
-* 📉 Feature importance visualization
-* 🌐 Dashboard interactivo (Streamlit)
-* 🧠 Optimización de hiperparámetros
-* 🏆 Simulación completa del Mundial
-
----
-
 ## 🛠️ Tecnologías
 
 * Python
