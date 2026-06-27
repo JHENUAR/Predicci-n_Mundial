@@ -126,21 +126,21 @@ data/
 ---
 
 📌 Descripción de los datasets
-*cruces_16avos.csv
+* cruces_16avos.csv
 Contiene los enfrentamientos de la fase eliminatoria.
-*datos_historicos.csv
+* datos_historicos.csv
 Resultados de partidos históricos entre selecciones (goles, local/visitante).
-*datos_mundial.csv
+* datos_mundial.csv
 Estadísticas de desempeño en torneos internacionales.
-*ranking_fifa.csv
+* ranking_fifa.csv
 Ranking oficial de selecciones nacionales.
-*transfermarkt.csv
+* transfermarkt.csv
 Valor de mercado de los equipos o jugadores.
-*partidos.csv / partidos_mundial.csv
+* partidos.csv / partidos_mundial.csv
 Información detallada de partidos jugados.
-*Grupos_Mundial.csv
+* Grupos_Mundial.csv
 Distribución de equipos por grupos.
-*detalle_simulacion_torneo.csv
+* detalle_simulacion_torneo.csv
 Datos adicionales para simulación del torneo.
 
 ---
