@@ -125,7 +125,7 @@ data/
 ```
 ---
 
-📌 Descripción de los datasets
+## 📌 Descripción de los datasets
 * cruces_16avos.csv
 Contiene los enfrentamientos de la fase eliminatoria.
 * datos_historicos.csv
