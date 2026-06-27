@@ -132,8 +132,6 @@ El modelo se entrena con:
 
 ---
 
-## 👨‍💻 Auto
-
 
 ## ⭐ Conclusión
 
