@@ -1,14 +1,17 @@
-﻿Fecha,Partido,Hora,Lugar
-2026-06-28,Sudáfrica vs. Canadá,2:00 PM,"SoFi Stadium, Inglewood, California, EUA"
-2026-06-29,Brasil vs. Japón,12:00 PM,"NRG Stadium, Houston, Texas, EUA"
-2026-06-29,Alemania vs. Paraguay,3:30 PM,"Gillette Stadium, Foxborough, Massachusetts, EUA"
-2026-06-29,Países Bajos vs. Marruecos,8:00 PM,"Estadio BBVA, Guadalupe, México"
-2026-06-30,Costa de Marfil vs. Noruega,12:00 PM,"AT&T Stadium, Arlington, Texas, EUA"
-2026-06-30,Francia vs. Suecia,4:00 PM,"MetLife Stadium, East Rutherford, New Jersey, EUA"
-2026-06-30,México vs. Third Place Group C/E/F/H/I,8:00 PM,"Estadio Banorte, Ciudad de México, México"
-2026-07-01,Group L Winner vs. Third Place Group E/H/I/J/K,11:00 AM,"Mercedes-Benz Stadium, Atlanta, Georgia, EUA"
-2026-07-01,Bélgica vs. Third Place Group A/E/H/I/J,3:00 PM,"Lumen Field, Seattle, Washington, EUA"
-2026-07-01,Estados Unidos vs. Bosnia y Herzegovina,7:00 PM,"Levi's Stadium, Santa Clara, California, EUA"
-2026-07-02,España vs. Group J 2nd Place,2:00 PM,"SoFi Stadium, Inglewood, California, EUA"
-2026-07-02,Group K 2nd Place vs. Group L 2nd Place,6:00 PM,"BMO Field, Toronto, Canadá"
-2026-07-02,Suiza vs. Third Place Group E/F/G/I/J,10:00 PM,"BC Place, Vancouver, Canadá"
+﻿Partido;Fecha y hora / Res.;Sede
+Sudáfrica vs. Canadá;Dom. 28 de junio, 15:00;SoFi Stadium, Los Angeles
+Alemania vs. Paraguay;Lun. 29 de junio, 16:30;Gillette Stadium, Foxborough
+Países Bajos vs. Marruecos;Lun. 29 de junio, 21:00;Estadio BBVA, Monterrey
+Brasil vs. Japón;Lun. 29 de junio, 13:00;NRG Stadium, Houston
+Francia vs. Suecia;Mar. 30 de junio, 17:00;MetLife Stadium, East Rutherford
+Costa de Marfil vs. Noruega;Mar. 30 de junio, 13:00;AT&T Stadium, Arlington
+México vs. Ecuador;Mar. 30 de junio, 21:00;Estadio Azteca, CDMX
+Inglaterra vs. Congo;Mié. 1 de julio, 12:00;Mercedes-Benz Stadium, Atlanta
+Estados Unidos vs. Bosnia;Mié. 1 de julio, 20:00;Levi's Stadium, Santa Clara
+Bélgica vs. Senegal;Mié. 1 de julio, 16:00;Lumen Field, Seattle
+Portugal vs. Croacia;Jue. 2 de julio, 19:00;BMO Field, Toronto
+España vs. Austria;Jue. 2 de julio, 15:00;SoFi Stadium, Los Angeles
+Suiza vs. Argelia;Jue. 2 de julio, 23:00;BC Place, Vancouver
+Argentina vs. Cabo Verde;Vie. 3 de julio, 18:00;Hard Rock Stadium, Miami
+Colombia vs. Ghana;Vie. 3 de julio, 21:30;Arrowhead Stadium, Kansas City
+Australia vs. Egipto;Vie. 3 de julio, 14:00;AT&T Stadium, Arlington
