@@ -1,4 +1,4 @@
-# 📊 Comparativa de Modelos de Machine Learning para la Predicción de Resultados en el Mundial 2026
+# 📊 Comparativa de Modelos de Machine Learning para la Predicción de Resultados de clasificados a octavos en el Mundial 2026
 
 ---
 
