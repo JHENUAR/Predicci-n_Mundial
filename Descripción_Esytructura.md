@@ -1,4 +1,4 @@
-# 🌍⚽ World Cup Knockout Stage Predictor
+# 🌍⚽ Descripccion y Estructura
 
 ### 🧠 Predicción de equipos clasificados a Octavos de Final usando Machine Learning
 
