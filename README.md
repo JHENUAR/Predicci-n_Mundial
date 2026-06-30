@@ -53,11 +53,7 @@ Para activarla: en GitHub ve a **Settings → Pages → Source: Deploy from a br
 ├── docs/                     # Web estática (GitHub Pages)
 │   └── index.html
 ├── Data/                     # Datos scrapeados y procesados (CSV)
-
-├── Modelo_RandomForest_8avos
 │ 
-├── Modelo_XGBoost_8avos
-│
 │── Predicciones/             # Predicción de los 104 partidos + Monte Carlo
     └── PREDICCIONES.md
 ```
