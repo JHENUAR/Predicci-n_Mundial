@@ -16,7 +16,7 @@ import re
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import cross_val_score, StratifiedKFold
-from collections import defaultdict  # <--- IMPORTANTE: añadido
+from collections import defaultdict  
 import warnings
 warnings.filterwarnings('ignore')
 
