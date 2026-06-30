@@ -1,5 +1,6 @@
-
-🚀 PREDICCIÓN DE CLASIFICADOS A OCTAVOS - MUNDIAL 2026 (MODELO XGBoost)
+## PPREDICCIÓN DE CLASIFICADOS A OCTAVOS - MODELO XGBOOST
+```text
+🚀 PREDICCIÓN DE CLASIFICADOS A OCTAVOS - MUNDIAL 2026 (MODELO AVANZADO)
 ================================================================================
 
 ✅ Nombres normalizados
@@ -191,3 +192,4 @@ Bosnia-Herzegovina                    0.023062
    - Simulación Monte Carlo: 1000 iteraciones
 
  Nota: Este modelo representa el estado del arte con los datos disponibles.
+```
